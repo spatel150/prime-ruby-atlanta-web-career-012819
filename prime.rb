@@ -1,2 +1,2 @@
 def prime(n)
-  if 
+  if (2..n/2) 
