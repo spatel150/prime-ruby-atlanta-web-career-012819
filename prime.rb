@@ -1,2 +1,2 @@
 def prime(n)
-  if (2..n/2) 
+  if (2..n/2).none? 
