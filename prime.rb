@@ -1,5 +1,5 @@
-def prime?(n)
+def prime?(num)
   if num >= 2
-    (2..number -1).all? do |x|
-      number
+    (2..num -1).all? do |x|
+      num
 end
